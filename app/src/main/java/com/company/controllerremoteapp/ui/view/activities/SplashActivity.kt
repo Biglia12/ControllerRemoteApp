@@ -1,9 +1,10 @@
-package com.company.controllerremoteapp
+package com.company.controllerremoteapp.ui.view.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
+import com.company.controllerremoteapp.R
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

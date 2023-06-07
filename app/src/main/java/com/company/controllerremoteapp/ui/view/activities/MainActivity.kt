@@ -1,4 +1,4 @@
-package com.company.controllerremoteapp
+package com.company.controllerremoteapp.ui.view.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
